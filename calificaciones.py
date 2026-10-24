@@ -12,7 +12,7 @@ def calcular_promedio(calificaciones):
         if not 0 <= calificacion <= 10:
             raise ValueError("Las calificaciones deben estar entre 0 y 10.")
 
-    return round(sum(calificaciones) / 3, 2)
+    return round(sum(calificaciones) / 2, 2)
 
 
 def obtener_estado(promedio):
