@@ -1,0 +1,11 @@
+Coloca aqui SOLO capturas reales hechas por ti:
+01_estructura_proyecto.png
+02_ejecucion_programa.png
+03_historial_commits.png
+04_archivo_workflow.png
+05_actions_exitoso_inicial.png
+06_actions_error.png
+07_detalle_prueba_fallida.png
+08_actions_exitoso_corregido.png
+
+No se incluyen capturas simuladas o tomadas de otros repositorios.
